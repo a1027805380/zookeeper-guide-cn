@@ -2,10 +2,12 @@
 
 [英文文档地址](http://zookeeper.apache.org/doc/r3.4.6/zookeeperProgrammers.html)
 
-[中文翻译地址](https://github.com/sundiontheway/zookeeper-guide-cn/blob/master/v1/zkguide.md)
+[中文翻译地址](https://github.com/a1027805380/zookeeper-guide-cn/blob/master/v1/zkguide.md)
+
+[百度地址]https://www.baidu.com/
 
 __贡献者__：   
-[$teve](https://github.com/sundiontheway)
+[$teve](https://github.com/a1027805380)
 
 
 ## 目录
