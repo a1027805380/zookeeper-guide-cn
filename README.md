@@ -4,7 +4,7 @@
 
 [中文翻译地址](https://github.com/a1027805380/zookeeper-guide-cn/blob/master/v1/zkguide.md)
 
-[百度地址]https://www.baidu.com/
+[百度地址](https://www.baidu.com/)
 
 __贡献者__：   
 [$teve](https://github.com/a1027805380)
